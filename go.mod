@@ -1,4 +1,4 @@
-module github.com/Tnze/CoolQ-Golang-SDK
+module github.com/YangLanjun/CoolQ-Golang-SDK
 
 go 1.13
 
